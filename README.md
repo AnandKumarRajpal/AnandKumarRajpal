@@ -14,45 +14,45 @@ Hello 👋, I'm Anand Kumar, a Computer Science graduate from Habib University, 
 
 ## 🌐 Me around the web:
 
-[![Portfolio](https://img.shields.io/badge/personal--portfolio-blue?style=for-the-badge)](https://anandkumarrajpal.netlify.app) [![Linkedin: anand-kumar-rajpal](https://img.shields.io/badge/anand--kumar--rajpal-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anand-kumar-rajpal/) [![Email: anandrajpal123@gmail.com](https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anandrajpal123@gmail.com) [![HackerRank: ak05173](https://img.shields.io/badge/hackerrank-blue?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/ak05173)
+[![Portfolio](https://img.shields.io/badge/personal--portfolio-000?style=for-the-badge)](https://anandkumarrajpal.netlify.app) [![Linkedin: anand-kumar-rajpal](https://img.shields.io/badge/anand--kumar--rajpal-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anand-kumar-rajpal/) [![Email: anandrajpal123@gmail.com](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail)](mailto:anandrajpal123@gmail.com) [![HackerRank: ak05173](https://img.shields.io/badge/hackerrank-000?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/ak05173)
 
 ## 🛠️ My Skills
 
 ### Programming languages:
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![GO](https://img.shields.io/badge/-GO-000?&logo=Go)
-![C](https://img.shields.io/badge/-C-000?&logo=c)
-![C++](https://img.shields.io/badge/-C++-000?&logo=cplusplus)
-![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
+![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=JavaScript)
+![GO](https://img.shields.io/badge/-GO-000?style=for-the-badge&logo=Go)
+![C](https://img.shields.io/badge/-C-000?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/-C++-000?style=for-the-badge&logo=cplusplus)
+![PHP](https://img.shields.io/badge/-PHP-000?style=for-the-badge&logo=PHP)
 
 ### Frontend development:
-![VueJS](https://img.shields.io/badge/-VueJS-000?&logo=vuedotjs)
-![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-000?&logo=Nuxt.js)
-![Vuetify](https://img.shields.io/badge/-Vuetify-000?&logo=vuetify)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
-![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
+![VueJS](https://img.shields.io/badge/-VueJS-000?style=for-the-badge&logo=vuedotjs)
+![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-000?style=for-the-badge&logo=Nuxt.js)
+![Vuetify](https://img.shields.io/badge/-Vuetify-000?style=for-the-badge&logo=vuetify)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
+![CSS](https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=CSS3)
+![HTML](https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=HTML5)
 
 ### Frameworks: 
-![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
-![WordPress](https://img.shields.io/badge/-WordPress-000?&logo=WordPress)
+![Flutter](https://img.shields.io/badge/-Flutter-000?style=for-the-badge&logo=Flutter)
+![WordPress](https://img.shields.io/badge/-WordPress-000?style=for-the-badge&logo=WordPress)
 
 ### Databases:
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
-![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=MongoDB)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=PostgreSQL)
+![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=MySQL)
+![SQLite](https://img.shields.io/badge/-SQLite-000?style=for-the-badge&logo=SQLite)
 
 ### Misc tools:
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
-![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=GitLab)
-![BitBucket](https://img.shields.io/badge/-BitBucket-000?&logo=BitBucket)
-![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira)
-![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
-![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
+![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=GitHub)
+![GitLab](https://img.shields.io/badge/-GitLab-000?style=for-the-badge&logo=GitLab)
+![BitBucket](https://img.shields.io/badge/-BitBucket-000?style=for-the-badge&logo=BitBucket)
+![Jira](https://img.shields.io/badge/-Jira-000?style=for-the-badge&logo=Jira)
+![VS Code](https://img.shields.io/badge/-VS%20Code-000?style=for-the-badge&logo=Visual-Studio-Code)
+![Postman](https://img.shields.io/badge/-Postman-000?style=for-the-badge&logo=Postman)
 
 <!-- ### SRE & DevOps:
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS)
