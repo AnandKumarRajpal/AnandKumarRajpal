@@ -1,12 +1,12 @@
 # Hi 👋, I'm Anand
 
-Hello 👋, I'm Anand Kumar, a Computer Science graduate from Habib University, Karachi. I'm currently working as an Associate Software Engineer @ [Securiti.ai](https://securiti.ai/). 
+Hello 👋, I'm Anand Kumar, an MSCS student at the University of Calgary.
 
 - I am a passionate problem solver 💪💡 and a technophile with a keen interest in the latest technologies 🚀
 
 - I'm particularly interested in full-stack development, and artificial intelligence 👨‍💻💪 
 
-- As an Associate Software Engineer at Securiti, I have the privilege of showcasing my skills and expertise in developing innovative products 🌟 
+- I have been working as a Software Engineer for the past 2 years, where I've had the privilege of showcasing my skills and expertise in developing innovative products 🌟 
 
 - I believe in using my knowledge and experience to make a positive impact on society 🌱
 
@@ -65,7 +65,7 @@ Hello 👋, I'm Anand Kumar, a Computer Science graduate from Habib University, 
 ![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx)
 ![Chef](https://img.shields.io/badge/-Chef-000?&logo=Chef)
  -->
-Last Edited on: 29/05/2023
+Last Edited on: 11/05/2024
 
 <!--
 **AnandKumarRajpal/AnandKumarRajpal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
