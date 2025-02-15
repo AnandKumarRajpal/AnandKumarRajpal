@@ -1,10 +1,10 @@
 # Hi 👋, I'm Anand
 
-Hello 👋, I'm Anand Kumar, an MSCS student at the University of Calgary.
+Hello 👋, I'm Anand Kumar, an MSc. (Thesis) student at the University of Calgary.
 
 - I am a passionate problem solver 💪💡 and a technophile with a keen interest in the latest technologies 🚀
 
-- I'm particularly interested in full-stack development, and artificial intelligence 👨‍💻💪 
+- I'm particularly interested in artificial intelligence and human-computer interaction 👨‍💻💪 
 
 - I have been working as a Software Engineer for the past 2 years, where I've had the privilege of showcasing my skills and expertise in developing innovative products 🌟 
 
@@ -14,7 +14,7 @@ Hello 👋, I'm Anand Kumar, an MSCS student at the University of Calgary.
 
 ## 🌐 Me around the web:
 
-[![Portfolio](https://img.shields.io/badge/personal--portfolio-000?style=for-the-badge)](https://anandkumarrajpal.netlify.app) [![Linkedin: anand-kumar-rajpal](https://img.shields.io/badge/anand--kumar--rajpal-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anand-kumar-rajpal/) [![Email: anandrajpal123@gmail.com](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail)](mailto:anandrajpal123@gmail.com) [![HackerRank: ak05173](https://img.shields.io/badge/hackerrank-000?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/ak05173)
+[![Portfolio](https://img.shields.io/badge/personal--portfolio-000?style=for-the-badge)](https://anandkumarrajpal.github.io) [![Linkedin: anand-kumar-rajpal](https://img.shields.io/badge/anand--kumar--rajpal-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anand-kumar-rajpal/) [![Email: anandrajpal123@gmail.com](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail)](mailto:anandrajpal123@gmail.com) [![HackerRank: ak05173](https://img.shields.io/badge/hackerrank-000?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/ak05173)
 
 ## 🛠️ My Skills
 
